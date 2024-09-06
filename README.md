@@ -46,13 +46,13 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manasdutta04&show_icons=true&locale=en&layout=compact" alt="manasdutta04" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SOUBHIK-07&show_icons=true&locale=en&layout=compact" alt="SOUBHIK-07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manasdutta04&show_icons=true&locale=en" alt="manasdutta04" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SOUBHIK-07&show_icons=true&locale=en" alt="SOUBHIK-07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manasdutta04&" alt="manasdutta04" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manasdutta04" alt="manasdutta04" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SOUBHIK-07" alt="SOUBHIK-07" /></a> </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -60,6 +60,6 @@
 
 ---
 <p align="center">
-<img src="https://github.com/manasdutta04/manasdutta04/blob/main/github-contribution-grid-snake.svg">
+<img src="https://github.com/SOUBHIK-07/SOUBHIK-07/blob/main/github-contribution-grid-snake.svg">
 </p>
 
