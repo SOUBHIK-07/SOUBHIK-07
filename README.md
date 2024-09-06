@@ -1,78 +1,65 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Soubhik Chakraborty</title>
-    <style>
-        body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-}
 
-.container {
-    background-color: #fff;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    padding: 20px;
-    text-align: center;
-}
+<h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Soubhik Chakraborty <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture></h3></h1>
+<h3 align="center"><img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">   Student at Techno India Banipur 244 || CSE || TECB'26  <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"></h3>
 
-h1 {
-    color: #333;
-    font-size: 24px;
-    margin-bottom: 10px;
-}
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Thanks+for+visiting!+..&hearts;++;Self-taught+Disciple,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-p {
-    color: #666;
-    font-size: 18px;
-    margin: 5px 0;
-}
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Hi, I am Soubhik Chakraborty</h1>
-        <p>Student at Techno Engineering College Banipur</p>
-        <p>Department: Computer Science Engineering (CSE)</p>
-        <p>Batch: TECB'26</p>
-    </div>
-</body>
-</html>
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manasdutta04&label=Profile%20views&color=0e75b6&style=flat" alt="manasdutta04" /> </p>
+
+<p align="right"> <a href="https://twitter.com/manasdutta04" target="blank"><img src="https://img.shields.io/twitter/follow/manasdutta04?logo=twitter&style=for-the-badge" alt="manasdutta04" /></a> </p>
 
 
+- 🔭 Currently I’m **pursing B.Tech In CSE**
+
+- 🌱 I’m currently learning **C, C++, Python, Java, HTML, CSS, JS, React.JS**
+
+- 👯 I’m looking to collaborate on [Github](https://github.com/SOUBHIK-07)
+
+- 🤝 I’m looking for help with **Coding**
+
+- 👨‍💻 All of my projects are available at [https://github.com/SOUBHIK-07](https://github.com/SOUBHIK-07)
+
+- 💬 Ask me about **Tech & Code**
+
+- 📫 How to reach me **https://www.linkedin.com/in/soubhik-chakraborty/**
+
+ 
 
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/manasdutta04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manas_dutta_04" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manasdutta04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manasdutta04" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100050567529329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manas dutta" height="30" width="40" /></a>
+<a href="https://instagram.com/manasdutta.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manas_dutta_04" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+# 📊 GitHub Stats:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manasdutta04&show_icons=true&locale=en&layout=compact" alt="manasdutta04" /></p>
 
-🔭 Currently I’m pursing B.Tech In CSE
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manasdutta04&show_icons=true&locale=en" alt="manasdutta04" /></p>
 
-🌱 I’m currently learning C, C++, Python, Java, HTML, CSS, JS, React.JS
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manasdutta04&" alt="manasdutta04" /></p>
 
-👯 I’m looking to collaborate on Github
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manasdutta04" alt="manasdutta04" /></a> </p>
 
-🤝 I’m looking for help with Coding
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-👨‍💻 All of my projects are available at https://github.com/SOUBHIK-07
+### Thanks for Visiting my GitHub Profile!
 
-💬 Ask me about Tech & Code
+---
+<p align="center">
+<img src="https://github.com/manasdutta04/manasdutta04/blob/main/github-contribution-grid-snake.svg">
+</p>
 
-📫 How to reach me https://www.linkedin.com/in/soubhik-chakraborty/
-
-📄 Know about my experiences  
-
-
-
-<!---
-SOUBHIK-07/SOUBHIK-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
