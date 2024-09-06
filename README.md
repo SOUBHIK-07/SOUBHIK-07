@@ -9,9 +9,9 @@
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manasdutta04&label=Profile%20views&color=0e75b6&style=flat" alt="manasdutta04" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SOUBHIK-07&label=Profile%20views&color=0e75b6&style=flat" alt="SOUBHIK-07" /> </p>
 
-<p align="right"> <a href="https://twitter.com/manasdutta04" target="blank"><img src="https://img.shields.io/twitter/follow/manasdutta04?logo=twitter&style=for-the-badge" alt="manasdutta04" /></a> </p>
+<p align="right"> <a href="https://twitter.com/Soubhik_07" target="blank"><img src="https://img.shields.io/twitter/follow/Soubhik_07?logo=twitter&style=for-the-badge" alt="Soubhik_07" /></a> </p>
 
 
 - 🔭 Currently I’m **pursing B.Tech In CSE**
