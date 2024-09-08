@@ -9,7 +9,7 @@
 
  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SOUBHIK-07&label=Profile%20views&color=0e75b6&style=flat" alt="SOUBHIK-07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SOUBHIK-07&label=Profile%20views&color=0e75b6&style=flat" alt="Soubhik-07" /> </p>
 
 <p align="right"> <a href="https://twitter.com/Soubhik_07" target="blank"><img src="https://img.shields.io/twitter/follow/Soubhik_07?logo=twitter&style=for-the-badge" alt="Soubhik_07" /></a> </p>
 
